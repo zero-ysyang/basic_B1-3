@@ -3,7 +3,7 @@
 | 단계 | 프롬프트 | 결과 및 개선점 |
 |------|----------------------|--------|
 | **초안** | travel app UI, blue color, simple | 너무 추상적임, 버튼 위치 이상함 |
-| **수정1** | Mobile app UI design for flight booking, clean minimal style, blue and white theme, bottom navigation bar | 레이아웃 개선, 텍스트가 외계어처럼 나옴 |
+| **수정1**&nbsp;&nbsp; | Mobile app UI design for flight booking, clean minimal style, blue and white theme, bottom navigation bar | 레이아웃 개선, 텍스트가 외계어처럼 나옴 |
 | **최종** | Mobile app UI, flight booking, minimal, blue white, bottom nav, high fidelity, Figma style | 일관된 스타일, Figma에서 최종 적으로 텍스트 영역을 덮는 방식으로 재수정 진행 |
 
 
