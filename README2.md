@@ -35,7 +35,8 @@
 ### ● 실행 결과 화면 캡처
 <img width="1529" height="415" alt="image" src="https://github.com/user-attachments/assets/c6c96f9e-844e-482e-b24f-f0c3cea6176e" />
 <img width="1529" height="505" alt="image" src="https://github.com/user-attachments/assets/75620039-3807-4a49-838b-eb570633e1c5" />
-<img width="943" height="698" alt="결과화면2" src="https://github.com/user-attachments/assets/b1248a56-010a-4e2c-b8f6-b9be104cc3c3" />
+<img width="1430" height="806" alt="20260726_065704" src="https://github.com/user-attachments/assets/5d30f648-0d34-42db-8b97-e862781b795b" />
+
 
 
 
