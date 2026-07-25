@@ -1,3 +1,13 @@
+# ○ 앱 화면 구성
+<img width="655" height="251" alt="image" src="https://github.com/user-attachments/assets/b9c234c3-9ab7-4922-9285-09077ca1f80a" />
+
+# ○ 초기 화면
+<img width="1536" height="1024" alt="c330d0e9-436b-4666-b116-633a78f49dc1" src="https://github.com/user-attachments/assets/eb4ddcb3-7ecd-4d79-89a7-8639ef062451" />
+
+
+
+
+
 # ○ 작업 로그 예시
 
 | 단계 | 프롬프트 | 결과 및 개선점 |
