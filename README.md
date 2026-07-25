@@ -1,3 +1,4 @@
+# [프로젝트 1]
 ## ⚡자동화 도구 비교 구현 (Make vs Zapier)
 
 ### 워크플로우: "Google Form 제출 → Google Sheets 기록 -> 조건 분기(유형 기준) → Discord 알림
