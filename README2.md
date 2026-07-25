@@ -14,22 +14,28 @@
 <br>
 
 ### ● 워크플로우 설계 문서 
-
+#### 1. RSS : 연합뉴스(경제) RSS URL 사용 (재시도전략 : 수집 실패시 15분)
+#### 2. Router : 뉴스제목의 'AI' 키워드 분기     
+#### 3-1. Google Sheets : 'AI' 가 포함된 경우, 'AI키워드 Sheet' 저장(일시, 제목, 내용, URL)
+#### 3-2. Google Sheets : 'AI' 가 포함되지 않은 경우, '나머지 Sheet' 저장(일시, 제목, 내용, URL)  
+#### 4. Discord : 3-1 처리건 Discord 채널 공유 (일자, 제목, URL)
+<br>
+<img width="1170" height="631" alt="image" src="https://github.com/user-attachments/assets/fbcaaaf1-593e-4656-9add-8dffb452501a" />
 
 
 ### ● 구현 화면 캡처
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/11d1697c-e9ac-4f52-a454-5bbe854a1b9b" /> <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f0304f55-e579-4ed5-ae1b-6a4d1d4de60a" />
+<img width="722" height="583" alt="image" src="https://github.com/user-attachments/assets/c8c0f725-b833-4285-ace3-db3e19208c20" />
+<img width="621" height="837" alt="image" src="https://github.com/user-attachments/assets/9ded58b8-2443-49c0-a6dd-7374c05d2dfb" />
+<img width="630" height="681" alt="image" src="https://github.com/user-attachments/assets/c812cb9e-183d-4cef-8f88-3167a8a72b95" />
+
 
 
 
 ### ● 실행 결과 화면 캡처
+<img width="1529" height="415" alt="image" src="https://github.com/user-attachments/assets/c6c96f9e-844e-482e-b24f-f0c3cea6176e" />
+<img width="1529" height="505" alt="image" src="https://github.com/user-attachments/assets/75620039-3807-4a49-838b-eb570633e1c5" />
+<img width="943" height="698" alt="결과화면2" src="https://github.com/user-attachments/assets/b1248a56-010a-4e2c-b8f6-b9be104cc3c3" />
 
 
 
-
-## 📊 비교 항목
-
-## ✅ 장단점 정리 👍 💡 💬
-
-
-> - **Make** → 복잡한 자동화 시나리오, 세밀한 데이터 제어가 필요한 **중급~고급 사용자**에게 적합
-> - **Zapier** → 빠른 설정과 폭넓은 앱 연동이 필요한 **입문자 및 비개발자**에게 적합
